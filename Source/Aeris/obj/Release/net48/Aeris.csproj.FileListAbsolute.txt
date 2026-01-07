@@ -1,0 +1,12 @@
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/1.6/Assemblies/Aeris.dll
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/1.6/Assemblies/Aeris.pdb
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.csproj.AssemblyReference.cache
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.GeneratedMSBuildEditorConfig.editorconfig
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.AssemblyInfoInputs.cache
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.AssemblyInfo.cs
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.csproj.CoreCompileInputs.cache
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.sourcelink.json
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.dll
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/Aeris/obj/Release/net48/Aeris.pdb
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/1.6/Assemblies/Aeris.dll
+/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/1.6/Assemblies/Aeris.pdb
