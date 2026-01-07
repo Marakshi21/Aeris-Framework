@@ -1,0 +1,10 @@
+<? xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Aeris Framework</name>
+    <packageId>Dusk.AerisFramework</packageId>
+    <author>Dusk21</author>
+    <description>Aeris Framework</description>
+        <supportedVersions>
+	    <li>1.6</li>
+    </supportedVersions>
+</ModMetaData>
