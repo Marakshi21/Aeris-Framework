@@ -1,10 +1,18 @@
-<? xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
     <name>Aeris Framework</name>
     <packageId>Dusk.AerisFramework</packageId>
-    <author>Dusk21</author>
+    <author>Marakshi21</author>
     <description>Aeris Framework</description>
-        <supportedVersions>
+    <supportedVersions>
 	    <li>1.6</li>
     </supportedVersions>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+        <li>Ludeon.RimWorld.Ideology</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+        <li>Ludeon.RimWorld.Anomaly</li>
+	<li>Ludeon.RimWorld.Odyssey</li>
+    </loadAfter>
 </ModMetaData>
