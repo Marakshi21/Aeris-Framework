@@ -1,7 +1,7 @@
 ﻿using Verse;
 // Resharper Disable all
 
-namespace Aeris;
+namespace Aeris.Core;
 
 [StaticConstructorOnStartup]
 public static class Aeris_Log

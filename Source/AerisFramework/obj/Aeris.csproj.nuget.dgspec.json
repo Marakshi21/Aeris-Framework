@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj": {}
+    "/mnt/aux/games/Celeste/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj": {}
   },
   "projects": {
-    "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj": {
+    "/mnt/aux/games/Celeste/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj",
+        "projectUniqueName": "/mnt/aux/games/Celeste/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj",
         "projectName": "Aeris",
-        "projectPath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj",
-        "packagesPath": "/home/Nico/.nuget/packages/",
-        "outputPath": "/home/Nico/.local/share/Steam/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/obj/",
+        "projectPath": "/mnt/aux/games/Celeste/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/Aeris.csproj",
+        "packagesPath": "/home/Madeline/.nuget/packages/",
+        "outputPath": "/mnt/aux/games/Celeste/steamapps/common/RimWorld/Mods/Aeris-Framework/Source/AerisFramework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/Nico/.nuget/NuGet/NuGet.Config"
+          "/home/Madeline/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net48"

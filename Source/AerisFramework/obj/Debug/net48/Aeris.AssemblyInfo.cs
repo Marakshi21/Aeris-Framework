@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright (c) 2025 Dusk")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd94b7dbb7a39288830323c67ef60795084257e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2046cfc0032739ffe2d3df89e0b6d31874d38205")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aeris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aeris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
